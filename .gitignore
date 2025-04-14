@@ -1,0 +1,15 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+
+# Maven/Tomcat
+target/
+*.war
+
+# Uploads
+src/main/webapp/uploads/
+
+# Database credentials
+src/main/resources/database.properties
